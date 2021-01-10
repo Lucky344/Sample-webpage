@@ -1,0 +1,107 @@
+.left{
+    /* border: 3px solid rgba(223, 42, 42, 0.829); */
+    /* background-color: rgba(223, 42, 42, 0.829); */
+    color: azure;
+    text-decoration: none;
+    display: inline-block;
+    position: absolute;
+    left: 34px;
+    top: 12px;
+    font-family: 'Pinyon Script', cursive;
+    font-size: 100;
+}
+
+.left:hover{
+    color: cadetblue;
+    cursor: pointer;
+}
+
+.content{
+    font-family: 'Dancing Script', cursive;
+    color: azure;
+    display: inline-block;
+    position: absolute;
+    left: 34px;
+    top: 251px;
+    font-size: 30px;
+    text-align: left;
+
+}
+
+.mid{
+    /* border: 3px solid rgba(223, 42, 42, 0.829); */
+    /* background-color: rgba(223, 42, 42, 0.829); */
+    display: inline-block;
+    position: absolute;
+    right: 34px;
+    top: 10px;
+    
+}
+
+.navbar{
+    display: inline-block;
+}
+
+.navbar li{
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.navbar li a{
+    color: azure;
+    text-decoration: none;
+    padding: 33px 11px;
+}
+
+.navbar li a:hover{
+    color: cadetblue;
+}
+
+.forum a{
+    display: inline-block;
+    position: absolute;
+    right: 118px;
+    top: 281px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    color: azure;
+    text-decoration: none;
+}
+.forum a:hover{
+    color: cadetblue;
+}
+
+.para{
+    display: inline-block;
+    position: absolute;
+    right: 34px;
+    top: 330px;
+    font-family: 'Dancing Script', cursive;
+    text-align: right;
+    font-size: 30px;
+}
+
+.foot{
+    display: inline-block;
+    position: absolute;
+    left: 608px;
+    top: 630px;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
